@@ -1,0 +1,17 @@
+D:\ООП 2 курс\Ars\Application\bin\Debug\net10.0\Ars.Application.deps.json
+D:\ООП 2 курс\Ars\Application\bin\Debug\net10.0\Ars.Application.dll
+D:\ООП 2 курс\Ars\Application\bin\Debug\net10.0\Ars.Application.pdb
+D:\ООП 2 курс\Ars\Application\bin\Debug\net10.0\Ars.Core.dll
+D:\ООП 2 курс\Ars\Application\bin\Debug\net10.0\Ars.Domain.dll
+D:\ООП 2 курс\Ars\Application\bin\Debug\net10.0\Ars.Domain.pdb
+D:\ООП 2 курс\Ars\Application\bin\Debug\net10.0\Ars.Core.pdb
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Application.csproj.AssemblyReference.cache
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Application.AssemblyInfoInputs.cache
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Application.AssemblyInfo.cs
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Application.csproj.CoreCompileInputs.cache
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Applicat.44B5EDA2.Up2Date
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Ars.Application.dll
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\refint\Ars.Application.dll
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\Ars.Application.pdb
+D:\ООП 2 курс\Ars\Application\obj\Debug\net10.0\ref\Ars.Application.dll
