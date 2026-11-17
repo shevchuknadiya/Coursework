@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ars.Domain/1.0.0": {
+        "dependencies": {
+          "Ars.Core": "1.0.0",
+          "Ars.Core.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "Ars.Domain.dll": {}
+        }
+      },
+      "Ars.Core/1.0.0": {
+        "runtime": {
+          "Ars.Core.dll": {
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Ars.Core.Reference/1.0.0.0": {
+        "runtime": {
+          "Ars.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ars.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ars.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ars.Core.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

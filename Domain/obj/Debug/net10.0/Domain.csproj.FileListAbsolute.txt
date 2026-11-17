@@ -1,0 +1,15 @@
+D:\ООП 2 курс\Ars\Domain\bin\Debug\net10.0\Ars.Domain.deps.json
+D:\ООП 2 курс\Ars\Domain\bin\Debug\net10.0\Ars.Domain.dll
+D:\ООП 2 курс\Ars\Domain\bin\Debug\net10.0\Ars.Domain.pdb
+D:\ООП 2 курс\Ars\Domain\bin\Debug\net10.0\Ars.Core.dll
+D:\ООП 2 курс\Ars\Domain\bin\Debug\net10.0\Ars.Core.pdb
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Domain.csproj.Up2Date
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Ars.Domain.dll
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\refint\Ars.Domain.dll
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\Ars.Domain.pdb
+D:\ООП 2 курс\Ars\Domain\obj\Debug\net10.0\ref\Ars.Domain.dll
